@@ -1,4 +1,4 @@
-# GavrilovaS-devops-16-DZ1
+# GavrilovaS-DEVSYS-23-DZ1
 
 Задание №1
 ![image](https://user-images.githubusercontent.com/97973917/149983414-499536f1-fbe1-4309-b8d2-a9401ea2d02a.png)
